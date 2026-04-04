@@ -1,6 +1,6 @@
 # MULM
 
-MULM is a Chrome Extension that streamlines the workflow between Minerva University's Forum platform and Google's NotebookLM.
+MULM is a Chrome Extension[https://chromewebstore.google.com/detail/mulm/kchcndllnnpddfldhdbphkhkdbcdeakl] that streamlines the workflow between Minerva University's Forum platform and Google's NotebookLM.
 
 Developed between December 2025 and January 2026, it was built to remove the repetitive friction of gathering session readings, copying source links, and moving workbook questions and content into AI tooling by hand. The extension packages that flow into a Manifest V3 product with a React-based popup, cross-origin content scripts, and a NotebookLM-side sync action.
 
